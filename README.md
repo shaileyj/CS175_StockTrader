@@ -7,6 +7,10 @@ Then run all the cells in project.ipynb in order. Be sure to run each cell only 
 This directory contains the pretrained models for all clusters.  
 **src/sentiment_stock_data/**:
 This directory contains the preprocessed data of the stocks and their average sentiment.  
+**src/stock_data/**:
+This directory contains the raw (unprocessed) data of the stocks.  
+**src/DTB3.csv**:
+This csv file contains the raw data of the risk-free rate.  
 **src/risk_free_rates.csv**:
 This csv file contains the risk-free rate used in the Sharpe ratio.  
 **src/stock_clustering.ipynb**:
