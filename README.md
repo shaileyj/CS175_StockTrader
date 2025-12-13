@@ -16,8 +16,8 @@ This file preprocesses the stock data, sentiment data, and the risk-free rate da
 **src/StockTrader.ipynb**:
 This file contains the custom Gym environment, and also trains and evaluates the models.
 **project.ipynb**:
-This file contains a demo of the trained models running on test data
+This file contains a demo of the trained models running on test data.
 **project.html**:
-This html file is a version of project.ipynb in html format
+This html file is a version of project.ipynb in html format.
 **requirements.txt**:
-This file lists required modules to run project.ipynb
+This file lists required modules to run project.ipynb.
